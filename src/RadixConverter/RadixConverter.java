@@ -1,6 +1,7 @@
+package RadixConverter;
 import java.util.Stack;
 
-public class BaseConverter {
+public class RadixConverter {
     
     public static void main(String[] args) {
         System.out.println(convertToBaseTen('9'));
